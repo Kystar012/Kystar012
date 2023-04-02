@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Software Engineering at ALX-Africa.
-
-##📫 How to reach me:
+<hr>
+<h1 style="border:2x solid violet;">📫 How to reach me:</h1>
 <p><a href="https://www.linkedin.com/in/festus-mwirigi" target="_blank">Linkedln</a>  <a href="https://twitter.com/Fmwigat?t=OoDu4KcGoTX5TxKCHoLZkA&s=09" target="_blank">Twitter</a></p>
 <p><b>Authored by: </b><em>Kystar012</em></p>
